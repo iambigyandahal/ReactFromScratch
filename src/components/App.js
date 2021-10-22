@@ -1,6 +1,6 @@
 const App = () => {
 	return (
-		<h1>React From Scratch</h1>
+		<h1 className="header">React From Scratch</h1>
 	)
 }
 
